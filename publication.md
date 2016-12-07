@@ -6,7 +6,7 @@ redirect_from: "/publications/"
 ---
 
 [Discovering Conversational Dependencies between Messages in Dialogs]({{ site.baseurl }}/publication/aaai2017_student_abstract.pdf),
-Wenchao Du, Pascal Poupart, and Wei Xu, in proceedings of the Thirty-First AAAI Conference on Artificial Intelligence(AAAI2017), Student Abstract, San Francisco, CA, USA, February 4-9th, AAAI.
+Wenchao Du, Pascal Poupart, and Wei Xu, in Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence(AAAI2017), Student Abstract, San Francisco, CA, USA, February 4-9th, AAAI.
 
 [Discovering Conversational Dependencies between Messages in Dialogs]({{ site.baseurl }}/publication/message_linking.pdf),
 Wenchao Du, Pascal Poupart, and Wei Xu, preprint.
