@@ -10,6 +10,6 @@ I'm an avocational amateur composer. Here are some of my compositions:
 \[rec\]
 \[[scores]({{ site.baseurl }}/music/gagatina.pdf)\]
 
-*Minuet in C major*, a very simple dance music in classical style. 
+*Minuet in C major*, a very simple piece of dance music in classical style. 
 \[[rec]({{ site.baseurl }}/music/Minuet_in_C.mp3)\]
 \[scores\]
