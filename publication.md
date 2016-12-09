@@ -5,7 +5,7 @@ permalink: /publication/
 redirect_from: "/publications/"
 ---
 
-[Discovering Conversational Dependencies between Messages in Dialogs]({{ site.baseurl }}/publication/aaai2017_student_abstract.pdf),
+[Discovering Conversational Dependencies between Messages in Dialogs](http://arxiv.org/abs/1612.02801),
 Wenchao Du, Pascal Poupart, and Wei Xu, in Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence(AAAI2017), Student Abstract, San Francisco, CA, USA, February 4-9th, AAAI.
 
 [Discovering Conversational Dependencies between Messages in Dialogs]({{ site.baseurl }}/publication/message_linking.pdf),
