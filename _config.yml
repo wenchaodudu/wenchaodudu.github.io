@@ -32,3 +32,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 redirects: yes
+google_analytics: UA-88801462-1
